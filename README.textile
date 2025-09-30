@@ -50,4 +50,4 @@ Multi discipline professional working in IT/IS for more than 28 years as an extr
                     </a></p>
 
 
-                    [![Zachary's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziptied)](https://github.com/anuraghazra/github-readme-stats)
+                  
